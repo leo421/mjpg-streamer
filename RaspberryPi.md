@@ -10,8 +10,7 @@
 
 libjpeg安装方式比较特别
 
-    sudo apt-get install aptitude
-    sudo aptitude install libjpeg-dev
+    sudo apt-get install libjpeg-dev
 
 编译安装
 
